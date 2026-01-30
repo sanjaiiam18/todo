@@ -35,9 +35,4 @@ Manage tasks easily with real-time updates and a clean dashboard-style UI.
 ├── script.js
 ├── README.md
 
-
 ---
-
-
-
-Your project is already portfolio-worthy — let’s make it shine 🚀
